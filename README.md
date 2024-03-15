@@ -1,3 +1,7 @@
+
+<p align="center"><img src="./readme_images/banner.png" width=1100 /></p>
+
+
 # About
 This is latest version of sex-specific mathematical models for epithelial transport along the nephron implemented in Python 3. Related research papers are listed below. Please cite appropriately. To improve computation time, parallel computation of different types of nephron is implemented for the multiple nephron model. 
 
